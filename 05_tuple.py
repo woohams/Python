@@ -1,5 +1,5 @@
 # tuple = list와 거의 같다.
-# 변경 불가
+# 한번 만들면 변경 불가
 
 a = tuple()
 print(a)
