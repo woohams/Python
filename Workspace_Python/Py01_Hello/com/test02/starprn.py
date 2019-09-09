@@ -45,10 +45,10 @@ for i in range(5):
 #     *
 print()
 for i in range(5):
-    for j in range(i+1):
+    for j in range(i):
         print( ' ', end='')
     for k in range(5-i):
-        print('*', end='')
+        print( '*', end='')
     print()
 
 # 5
